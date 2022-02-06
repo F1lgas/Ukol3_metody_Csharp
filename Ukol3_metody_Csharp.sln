@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ukol3_metody_Csharp", "Ukol3_metody_Csharp\Ukol3_metody_Csharp.csproj", "{74003697-354D-48D6-A6D8-B8B955B90046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74003697-354D-48D6-A6D8-B8B955B90046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74003697-354D-48D6-A6D8-B8B955B90046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74003697-354D-48D6-A6D8-B8B955B90046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74003697-354D-48D6-A6D8-B8B955B90046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056FD651-44BD-42E7-8C27-0AABFAEE1BBD}
+	EndGlobalSection
+EndGlobal
